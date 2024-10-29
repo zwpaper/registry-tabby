@@ -25,6 +25,7 @@ We have published benchmarks for these models on https://leaderboard.tabbyml.com
 | [CodeQwen-7B](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |
 | [Qwen2.5-Coder-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
 | [Qwen2.5-Coder-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [Qwen2.5-Coder-1.5B-Instruct-Multi](https://huggingface.co/ikw/Qwen2.5-Coder-1.5B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
 | [Codestral-22B](https://huggingface.co/mistralai/Codestral-22B-v0.1) | [Mistral AI Non-Production License](https://mistral.ai/licenses/MNPL-0.1.md) |
 | [DeepSeek-Coder-V2-Lite](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
 
@@ -40,6 +41,7 @@ To ensure optimal response quality, and given that latency requirements are not 
 | [CodeQwen-7B-Chat](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |
 | [Qwen2.5-Coder-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
 | [Qwen2.5-Coder-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [Qwen2.5-Coder-1.5B-Instruct-Multi](https://huggingface.co/ikw/Qwen2.5-Coder-1.5B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
 | [Qwen2-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2-1.5B) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
 | [Codestral-22B](https://huggingface.co/mistralai/Codestral-22B-v0.1) | [Mistral AI Non-Production License](https://mistral.ai/licenses/MNPL-0.1.md) |
 | [Yi-Coder-9B-Chat](https://huggingface.co/01-ai/Yi-Coder-9B-Chat) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
