@@ -272,6 +272,17 @@
     sha256: "3d2abf8f771767667ff66cc10a5db27421b8f0891d8af42b7c18eba8b5c33eec"
   sha256: "" # empty sha256 for not breaking versions before v0.18.0
 
+- name: Qwen2.5-7B-Instruct-1M
+  provider_url: https://huggingface.co/lmstudio-community/Qwen2.5-7B-Instruct-1M-GGUF
+  <<: *qwen25-coder-series
+  <<: *qwen25-coder-series-chat
+  partition_urls:
+  - urls:
+    - "https://huggingface.co/lmstudio-community/Qwen2.5-7B-Instruct-1M-GGUF/resolve/main/Qwen2.5-7B-Instruct-1M-Q8_0.gguf"
+    sha256: "86acbc63e1f31fbbeb926b34f91e4a4e1369855687fb73344c0279bdafe7a661"
+  sha256: "" # empty sha256 for not breaking versions before v0.18.0
+
+
 - name: Qwen2-1.5B-Instruct
   provider_url: https://huggingface.co/Qwen/Qwen2-1.5B
   <<: &qwen2-series
